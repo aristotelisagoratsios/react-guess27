@@ -1,3 +1,6 @@
+# Guess27
+Guess 27 project game, created from the framework ReactJS of Javascript Program Language!
+
 This is a game which determines the number in your mind
 
 All you need to do is
